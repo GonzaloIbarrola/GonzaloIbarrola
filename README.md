@@ -42,12 +42,12 @@ Mi objetivo es escalar como developer profesional.
 
 ## 🚀 Proyectos destacados
 
-- [🔗](https://github.com/GonzaloIbarrola/countries-api) Countries-api
+- [🔗 Countries-api](https://github.com/GonzaloIbarrola/countries-api)
   Frontend web app para explorar información de países del mundo. Consume la **REST Countries API** para mostrar un listado de países con sus banderas y datos principales. Incluye búsqueda por nombre, filtro por región, vista de detalle por país y modo oscuro persistente (guardado en `localStorage`). Todo el filtrado se realiza en el cliente, sin llamadas extra a la API.
 
   **Tech Stack:** React · React Router · Tailwind CSS · Vite · REST Countries API
 
-- [🔗](https://github.com/GonzaloIbarrola/Github-User-Search) Github User Search  
+- [🔗 Github User Search](https://github.com/GonzaloIbarrola/Github-User-Search)  
   App frontend para buscar perfiles de GitHub en tiempo real usando la **GitHub API**. Ingresando un nombre de usuario se muestra su avatar, bio, cantidad de repositorios públicos, seguidores y seguidos. Proyecto basado en un challenge de FrontendMentor.
 
 **Tech Stack:** React · Tailwind CSS · Vite · GitHub API
