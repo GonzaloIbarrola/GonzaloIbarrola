@@ -1,16 +1,75 @@
-## Hi there 👋
+# 👋 Hola, soy Gonzalo
 
-<!--
-**GonzaloIbarrola/GonzaloIbarrola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer en crecimiento, enfocado en construir interfaces modernas, rápidas y bien diseñadas.  
+💡 Actualmente explorando integración de IA en aplicaciones web.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+Soy desarrollador web con base sólida en frontend. Me gusta construir productos reales, no solo proyectos de práctica.
+
+Estoy enfocado en:
+- Crear interfaces limpias y responsivas
+- Mejorar experiencia de usuario (UX/UI)
+- Integrar APIs y funcionalidades dinámicas
+- Aplicar IA en proyectos reales
+
+Mi objetivo es escalar como developer profesional.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React
+- Tailwind CSS
+
+### Herramientas
+- Git & GitHub
+- Vite
+- Figma (básico)
+
+### Actualmente aprendiendo
+- Integración con IA (APIs como OpenAI)
+- Arquitectura frontend más escalable
+- Buenas prácticas y performance
+
+---
+
+## 🚀 Proyectos destacados
+
+- [🔗](https://github.com/GonzaloIbarrola/countries-api) Countries-api
+  Frontend web app para explorar información de países del mundo. Consume la **REST Countries API** para mostrar un listado de países con sus banderas y datos principales. Incluye búsqueda por nombre, filtro por región, vista de detalle por país y modo oscuro persistente (guardado en `localStorage`). Todo el filtrado se realiza en el cliente, sin llamadas extra a la API.
+
+  **Tech Stack:** React · React Router · Tailwind CSS · Vite · REST Countries API
+
+- [🔗](https://github.com/GonzaloIbarrola/Github-User-Search) Github User Search  
+  App frontend para buscar perfiles de GitHub en tiempo real usando la **GitHub API**. Ingresando un nombre de usuario se muestra su avatar, bio, cantidad de repositorios públicos, seguidores y seguidos. Proyecto basado en un challenge de FrontendMentor.
+
+**Tech Stack:** React · Tailwind CSS · Vite · GitHub API
+
+---
+
+## 📈 En qué estoy trabajando
+
+Actualmente estoy enfocado en:
+- Construir proyectos con IA para portfolio
+- Mejorar mi nivel en React
+- Prepararme para oportunidades internacionales
+
+---
+
+## 📫 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/gonzalo-ibarrola/)
+
+---
+
+## ⚡ Extra
+
+Siempre buscando mejorar, aprender y construir cosas útiles.  
+Si tenés una idea o proyecto, estoy abierto a colaborar.
